@@ -4,7 +4,7 @@ int ITER = 500000;
 int ANGLES = 15;
 int SIZE = 10;
 int OPACITY = 70;
-String NAME = "trump";
+String NAME = "00100dPORTRAIT_00100_BURST20191107155323246_COVER-removebg-preview(1).png";
 int x,y;
 int RESOLUTION[] = {720,180};
 
